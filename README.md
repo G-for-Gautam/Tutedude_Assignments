@@ -1,2 +1,2 @@
 # Tutedude_Assignments
-all completed assignments of tutedude python course
+all completed assignments of tutedude python course till date
